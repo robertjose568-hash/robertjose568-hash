@@ -6,9 +6,11 @@
 
 ![Robert GitHub stats](https://github-readme-stats.vercel.app/api?username=robertjose568-hash&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertjose568-hash&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso no meu dia
 
-<div style="display: inline_block"><bt/>
+<div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center" alt="C++" src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -18,5 +20,13 @@
   <img align="center" alt="Supabase" src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  
 </div><br>
+
+## Formações e Cursos relevantes
+
+* 🌱 **Engenharia Agronômica** & **Gestão em Agronegócio**
+* 📈 **Analise de Dados** & **Segurança Cibernética**
+
+<br/>
+"Cultivando Tecnologia e Colhendo eficiência"
+<br/>
